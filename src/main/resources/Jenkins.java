@@ -9,4 +9,7 @@ public class Jenkins {
 	public static void run(int i){
 	
 	}
+	public static void run2(int i){
+		System.out.println("Hello we are here");
+	}
 }
